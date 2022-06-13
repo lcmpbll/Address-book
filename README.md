@@ -1,10 +1,10 @@
-# _New Project_
+# _Little Black Book_
 
-#### By _**Liam Campbell_
+#### By _*Liam Campbell*_
 
-#### _{Brief description of application}_
+#### _An address book_
 
-![A cartoon image of people voting](img/vote.jpeg)
+![A little black book](img/addressbook.jpeg)
 
 ## Technologies Used
 
@@ -20,10 +20,10 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup/Installation Requirements
 
-* _Clone the git repository github.com/lcmpbll/voter.git to your desktop_
+* _Clone the git repository github.com/lcmpbll/Address-book.git to your desktop_
 * _Navigate to the top level of the directoy._
 * _Open index.html in your browser._
-* _easy-to-understand_
+
 
 
 
@@ -36,4 +36,4 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 _Feel free to reach out via [Github](github.com.lcmpbll) to provide feedback on this project or to view my other projects._
 
-[Copyright](LICENSE) (c) _date_ _author name(s)_
+[Copyright](LICENSE) (c) _06-12-2022_ _Liam Campbell_
